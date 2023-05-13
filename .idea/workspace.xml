@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="Classes, constructor and getters&amp;setters">
+    <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="N/A">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -166,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684003605888</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added 'main' method">
+      <created>1684003683959</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684003683959</updated>
+    </task>
+    <task id="LOCAL-00013" summary="N/A">
+      <created>1684003692731</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684003692731</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,9 +213,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating New Repo" />
     <MESSAGE value="Hermetyzacja" />
-    <MESSAGE value="N/A" />
     <MESSAGE value="Delete obsolete files." />
     <MESSAGE value="Classes, constructor and getters&amp;setters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes, constructor and getters&amp;setters" />
+    <MESSAGE value="Added 'main' method" />
+    <MESSAGE value="N/A" />
+    <option name="LAST_COMMIT_MESSAGE" value="N/A" />
   </component>
 </project>

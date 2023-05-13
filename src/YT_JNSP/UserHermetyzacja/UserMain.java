@@ -5,6 +5,6 @@ public class UserMain {
         User mariusz = new User("Mariusz", 20);
         mariusz.legalBuy();
         User ania = new User("Ania", 10);
-        //
+
     }
 }

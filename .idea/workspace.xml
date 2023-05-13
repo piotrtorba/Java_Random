@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="N/A" />
+    <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="Classes, constructor and getters&amp;setters">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,18 +28,38 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PkSRNcklA60yShxXv5XcPPCxkR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="YT_JNSP.ProjectComputer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YT_JNSP.ProjectComputer.Main" />
+      <module name="Java_Random" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YT_JNSP.ProjectComputer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="YT_JNSP.UserHermetyzacja.UserMain" />
       <module name="Java_Random" />
@@ -52,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.UserMain" />
       </list>
     </recent_temporary>
@@ -121,7 +145,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684001691602</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="N/A">
+      <created>1684001752227</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684001752227</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Delete obsolete files.">
+      <created>1684001824331</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684001824331</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Classes, constructor and getters&amp;setters">
+      <created>1684003605888</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684003605888</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,7 +174,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -139,6 +201,8 @@
     <MESSAGE value="Creating New Repo" />
     <MESSAGE value="Hermetyzacja" />
     <MESSAGE value="N/A" />
-    <option name="LAST_COMMIT_MESSAGE" value="N/A" />
+    <MESSAGE value="Delete obsolete files." />
+    <MESSAGE value="Classes, constructor and getters&amp;setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes, constructor and getters&amp;setters" />
   </component>
 </project>

@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="Creating New Repo">
-      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/UserHermetyzacja/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/UserHermetyzacja/UserMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="N/A" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,11 +78,27 @@
       <option name="project" value="LOCAL" />
       <updated>1683999666614</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hermetyzacja">
+      <created>1684000375208</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684000375208</updated>
+    </task>
+    <task id="LOCAL-00004" summary="N/A">
+      <created>1684000535644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684000535644</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating New Repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating New Repo" />
+    <MESSAGE value="Hermetyzacja" />
+    <MESSAGE value="N/A" />
+    <option name="LAST_COMMIT_MESSAGE" value="N/A" />
   </component>
 </project>

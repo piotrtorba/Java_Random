@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="N/A">
+      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive/Drive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive/HDDdrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive/SSDdrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/File.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Speakers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Speakers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/USBdevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/USBdevice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -51,7 +61,7 @@
       <module name="Java_Random" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="YT_JNSP.ProjectComputer.*" />
+          <option name="PATTERN" value="YT_JNSP.ProjectComputer.Drive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684003692731</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update - README file.">
+      <created>1684007190161</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684007190161</updated>
+    </task>
+    <task id="LOCAL-00015" summary="N/A">
+      <created>1684007201427</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1684007201427</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +240,7 @@
     <MESSAGE value="Delete obsolete files." />
     <MESSAGE value="Classes, constructor and getters&amp;setters" />
     <MESSAGE value="Added 'main' method" />
+    <MESSAGE value="Update - README file." />
     <MESSAGE value="N/A" />
     <option name="LAST_COMMIT_MESSAGE" value="N/A" />
   </component>

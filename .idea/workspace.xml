@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="N/A">
-      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive/Drive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive/HDDdrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive/SSDdrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/File.java" afterDir="false" />
+    <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="Done:&#10;- Interface usbDevice implementation&#10;- USBDevices interface &amp; Mouse and MemorySrick classes&#10;- added methods in class Computer">
+      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/usbdevice/MemoryStick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/usbdevice/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/usbdevice/USBDevice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Display.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive/SSDdrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive/SSDdrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Speakers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Speakers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/USBdevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/USBdevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/USBdevice.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684007201427</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Done:&#10;- Interface implementation&#10;- Display, Speakers,SSD &amp; HDD classes">
+      <created>1684092408861</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1684092408861</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Done:&#10;- Interface usbDevice implementation&#10;- USBDevices interface &amp; Mouse and MemorySrick classes&#10;- added methods in class Computer">
+      <created>1684436430307</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1684436430307</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +253,8 @@
     <MESSAGE value="Added 'main' method" />
     <MESSAGE value="Update - README file." />
     <MESSAGE value="N/A" />
-    <option name="LAST_COMMIT_MESSAGE" value="N/A" />
+    <MESSAGE value="Done:&#10;- Interface implementation&#10;- Display, Speakers,SSD &amp; HDD classes" />
+    <MESSAGE value="Done:&#10;- Interface usbDevice implementation&#10;- USBDevices interface &amp; Mouse and MemorySrick classes&#10;- added methods in class Computer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done:&#10;- Interface usbDevice implementation&#10;- USBDevices interface &amp; Mouse and MemorySrick classes&#10;- added methods in class Computer" />
   </component>
 </project>

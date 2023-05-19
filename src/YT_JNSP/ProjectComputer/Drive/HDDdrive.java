@@ -1,13 +1,13 @@
 package YT_JNSP.ProjectComputer.Drive;
 
-import YT_JNSP.ProjectComputer.File;
+import YT_JNSP.ProjectComputer.File.File;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
 public class HDDdrive implements Drive {
-    List<File> files = new ArrayList<>();
+    private List<File> files = new ArrayList<>();
     @Override
     public void addFile(File file) {
         files.add(file);

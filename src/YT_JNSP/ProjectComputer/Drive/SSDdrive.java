@@ -1,16 +1,16 @@
 package YT_JNSP.ProjectComputer.Drive;
 
-import YT_JNSP.ProjectComputer.File;
+import YT_JNSP.ProjectComputer.File.File;
 
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
 public class SSDdrive implements Drive {
-    Map<String, File> files = new HashMap<>();
+    private Map<String, File> files = new HashMap<>();
     @Override
     public void addFile(File file) {
-        files.put(file.toString(), file);
+        files.put(file.getName(), file);
     }
 
     @Override

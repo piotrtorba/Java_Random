@@ -13,7 +13,7 @@ public class Wisielec {
         Scanner scanner = new Scanner(System.in);
         System.out.println(">>> ---> Start gry <--- <<<\n");
         System.out.println("Zasady:");
-        System.out.println("Odgadnij slowo i zdobodz 1pkt");
+        System.out.println("Odgadnij slowo i zdobodz 1pkt.");
         System.out.println("Za kazda nie odgadnieta litere tracisz 1 probe.");
         System.out.println("------------------------------------------------------------");
 

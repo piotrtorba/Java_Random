@@ -2,6 +2,6 @@ package YT_JNSP.Wisielec;
 
 public class README {
     /*
-    Gra Wisielec ktora polega na odgadywaniu slow
+    'Wisielec' game. Guess the word to gain points.
      */
 }

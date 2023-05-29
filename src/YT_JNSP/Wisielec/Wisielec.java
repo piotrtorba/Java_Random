@@ -11,10 +11,10 @@ public class Wisielec {
 
     public void play() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println(">>> ---> Start gry <--- <<<\n");
-        System.out.println("Zasady:");
-        System.out.println("Odgadnij slowo i zdobodz 1pkt.");
-        System.out.println("Za kazda nie odgadnieta litere tracisz 1 probe.");
+        System.out.println(">>> ---> Start <--- <<<\n");
+        System.out.println("Rules:");
+        System.out.println("Guess the word and gain 1pkt.");
+        System.out.println("For every mistake you loose 1 life.");
         System.out.println("------------------------------------------------------------");
 
         Random random = new Random();
@@ -25,9 +25,9 @@ public class Wisielec {
                                         // znakiem, tutaj '*' (arg.2)
         
         while (!gameover()) {
-            System.out.println("Podaj litere slowa.");
-            System.out.println("Liczba zdobytych punktow: " + points);
-            System.out.println("Pozostalo Ci " + tries + " proby.");
+            System.out.println("Enter a letter");
+            System.out.println("Your points: " + points);
+            System.out.println("You have " + tries + " left");
             System.out.println();
             System.out.println(userWord);
 
@@ -43,12 +43,12 @@ public class Wisielec {
         for (int i = 0; i < randWord.length(); i++) {
             if (randWord.charAt(i) == letter) {
                 userWord[i] = letter;
-                System.out.println("Zbobyles 1 pkt.");
+                System.out.println("Congratulatijons! +1 point");
                 foundLetter = true;
             }
         }
         if (!foundLetter) {
-            System.out.println("Niestety slowo nie zawiera podanej litery.\n".toUpperCase());
+            System.out.println("The word doesn't contain given letter\n".toUpperCase());
             tries--;
         } else {
             points++;
@@ -57,8 +57,8 @@ public class Wisielec {
 
     private boolean gameover() {
         if (tries == 0 || randWord.equals(String.valueOf(userWord))) {
-            System.out.println("Zdobyles: " + points + " punktow.");
-            System.out.println("----------- game over -----------".toUpperCase());
+            System.out.println("Total points: " + points);
+            System.out.println("----------- Game Over -----------".toUpperCase());
         }
         return tries == 0 || randWord.equals(String.valueOf(userWord));
     }

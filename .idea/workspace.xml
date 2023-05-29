@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="Done:&#10;- Interface usbDevice implementation&#10;- USBDevices interface &amp; Mouse and MemorySrick classes&#10;- added methods in class Computer">
-      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/usbdevice/MemoryStick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/usbdevice/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/usbdevice/USBDevice.java" afterDir="false" />
+    <list default="true" id="51d819ea-a838-4870-9791-220c786ab040" name="Changes" comment="Gra 'Wisielec' odgadywanie slow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive/SSDdrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Drive/SSDdrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/ProjectComputer/USBdevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/Wisielec/README.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/Wisielec/README.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YT_JNSP/Wisielec/Wisielec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YT_JNSP/Wisielec/Wisielec.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -49,10 +45,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="YT_JNSP.ProjectComputer.File" />
       <recent name="YT_JNSP.ProjectComputer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.YT_JNSP.Wisielec.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="YT_JNSP.ProjectComputer.Main" />
       <module name="Java_Random" />
@@ -79,8 +76,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="YT_JNSP.Wisielec.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YT_JNSP.Wisielec.Main" />
+      <module name="Java_Random" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YT_JNSP.Wisielec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.YT_JNSP.Wisielec.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.UserMain" />
       </list>
@@ -214,7 +225,35 @@
       <option name="project" value="LOCAL" />
       <updated>1684436430307</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="--&gt; Final &lt;--&#10;Done:&#10;- Interface MusicFile and File implementation&#10;- JPGandGIF, and abstract  classes">
+      <created>1684507184336</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1684507184336</updated>
+    </task>
+    <task id="LOCAL-00019" summary="--&gt; Final &lt;--">
+      <created>1684524729361</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1684524729361</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Gra 'Wisielec' odgadywanie slow">
+      <created>1684867779683</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1684867779683</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Gra 'Wisielec' odgadywanie slow">
+      <created>1684868009087</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1684868009087</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +294,9 @@
     <MESSAGE value="N/A" />
     <MESSAGE value="Done:&#10;- Interface implementation&#10;- Display, Speakers,SSD &amp; HDD classes" />
     <MESSAGE value="Done:&#10;- Interface usbDevice implementation&#10;- USBDevices interface &amp; Mouse and MemorySrick classes&#10;- added methods in class Computer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done:&#10;- Interface usbDevice implementation&#10;- USBDevices interface &amp; Mouse and MemorySrick classes&#10;- added methods in class Computer" />
+    <MESSAGE value="--&gt; Final &lt;--&#10;Done:&#10;- Interface MusicFile and File implementation&#10;- JPGandGIF, and abstract  classes" />
+    <MESSAGE value="--&gt; Final &lt;--" />
+    <MESSAGE value="Gra 'Wisielec' odgadywanie slow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gra 'Wisielec' odgadywanie slow" />
   </component>
 </project>
